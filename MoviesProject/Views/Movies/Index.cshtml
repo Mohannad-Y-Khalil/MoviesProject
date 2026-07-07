@@ -1,0 +1,39 @@
+﻿@model IEnumerable<MoviesProject.Models.Movie>
+@{
+    ViewData["Title"] = "Movies";
+}
+
+<h1>
+    Movies
+    <span role="img" aria-label="film-camera">🎬</span>
+</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+
+<div class="movie-grid">
+    @foreach (var item in Model)
+    {
+        <div class="movie-card">
+            <img src="@Url.Content(item.ImageUrl)" alt="@item.Title" />
+            <div class="card-body">
+                <div class="card-title">@Html.DisplayFor(modelItem => item.Title)</div>
+                <div class="card-text">
+                    <strong>Release Date:</strong> @Html.DisplayFor(modelItem => item.ReleaseDate)
+                </div>
+                <div class="card-text">
+                    <strong>Genre:</strong> @Html.DisplayFor(modelItem => item.Genre)
+                </div>
+                <div class="card-text">
+                    <strong>Rating:</strong> @Html.DisplayFor(modelItem => item.Rating) / 10
+                </div>
+                <div class="card-actions">
+                    <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-primary btn-sm">Edit</a>
+                    <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-info btn-sm">Details</a>
+                    <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger btn-sm">Delete</a>
+                </div>
+            </div>
+        </div>
+    }
+</div>

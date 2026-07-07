@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\legac\\OneDrive\\Desktop\\Courses\\.net\\route\\MoviesProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{55D7B025-751D-4C51-A6AA-B52795B7A947}|MoviesProject\\MoviesProject.csproj|c:\\users\\legac\\onedrive\\desktop\\courses\\.net\\route\\moviesproject\\moviesproject\\views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55D7B025-751D-4C51-A6AA-B52795B7A947}|MoviesProject\\MoviesProject.csproj|solutionrelative:moviesproject\\views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55D7B025-751D-4C51-A6AA-B52795B7A947}|MoviesProject\\MoviesProject.csproj|c:\\users\\legac\\onedrive\\desktop\\courses\\.net\\route\\moviesproject\\moviesproject\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55D7B025-751D-4C51-A6AA-B52795B7A947}|MoviesProject\\MoviesProject.csproj|solutionrelative:moviesproject\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55D7B025-751D-4C51-A6AA-B52795B7A947}|MoviesProject\\MoviesProject.csproj|c:\\users\\legac\\onedrive\\desktop\\courses\\.net\\route\\moviesproject\\moviesproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55D7B025-751D-4C51-A6AA-B52795B7A947}|MoviesProject\\MoviesProject.csproj|solutionrelative:moviesproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55D7B025-751D-4C51-A6AA-B52795B7A947}|MoviesProject\\MoviesProject.csproj|c:\\users\\legac\\onedrive\\desktop\\courses\\.net\\route\\moviesproject\\moviesproject\\views\\movies\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55D7B025-751D-4C51-A6AA-B52795B7A947}|MoviesProject\\MoviesProject.csproj|solutionrelative:moviesproject\\views\\movies\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55D7B025-751D-4C51-A6AA-B52795B7A947}|MoviesProject\\MoviesProject.csproj|c:\\users\\legac\\onedrive\\desktop\\courses\\.net\\route\\moviesproject\\moviesproject\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{55D7B025-751D-4C51-A6AA-B52795B7A947}|MoviesProject\\MoviesProject.csproj|solutionrelative:moviesproject\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55D7B025-751D-4C51-A6AA-B52795B7A947}|MoviesProject\\MoviesProject.csproj|c:\\users\\legac\\onedrive\\desktop\\courses\\.net\\route\\moviesproject\\moviesproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55D7B025-751D-4C51-A6AA-B52795B7A947}|MoviesProject\\MoviesProject.csproj|solutionrelative:moviesproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55D7B025-751D-4C51-A6AA-B52795B7A947}|MoviesProject\\MoviesProject.csproj|c:\\users\\legac\\onedrive\\desktop\\courses\\.net\\route\\moviesproject\\moviesproject\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55D7B025-751D-4C51-A6AA-B52795B7A947}|MoviesProject\\MoviesProject.csproj|solutionrelative:moviesproject\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55D7B025-751D-4C51-A6AA-B52795B7A947}|MoviesProject\\MoviesProject.csproj|c:\\users\\legac\\onedrive\\desktop\\courses\\.net\\route\\moviesproject\\moviesproject\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55D7B025-751D-4C51-A6AA-B52795B7A947}|MoviesProject\\MoviesProject.csproj|solutionrelative:moviesproject\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 301,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\legac\\OneDrive\\Desktop\\Courses\\.net\\route\\MoviesProject\\MoviesProject\\Views\\Movies\\Create.cshtml",
+              "RelativeDocumentMoniker": "MoviesProject\\Views\\Movies\\Create.cshtml",
+              "ToolTip": "C:\\Users\\legac\\OneDrive\\Desktop\\Courses\\.net\\route\\MoviesProject\\MoviesProject\\Views\\Movies\\Create.cshtml",
+              "RelativeToolTip": "MoviesProject\\Views\\Movies\\Create.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-05T23:27:09.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "C:\\Users\\legac\\OneDrive\\Desktop\\Courses\\.net\\route\\MoviesProject\\MoviesProject\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "MoviesProject\\Controllers\\MoviesController.cs",
+              "ToolTip": "C:\\Users\\legac\\OneDrive\\Desktop\\Courses\\.net\\route\\MoviesProject\\MoviesProject\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "MoviesProject\\Controllers\\MoviesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T23:21:35.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\legac\\OneDrive\\Desktop\\Courses\\.net\\route\\MoviesProject\\MoviesProject\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MoviesProject\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\legac\\OneDrive\\Desktop\\Courses\\.net\\route\\MoviesProject\\MoviesProject\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MoviesProject\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-05T22:51:10Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\legac\\OneDrive\\Desktop\\Courses\\.net\\route\\MoviesProject\\MoviesProject\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "MoviesProject\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\legac\\OneDrive\\Desktop\\Courses\\.net\\route\\MoviesProject\\MoviesProject\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "MoviesProject\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAowJ8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-08-05T22:06:27.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\legac\\OneDrive\\Desktop\\Courses\\.net\\route\\MoviesProject\\MoviesProject\\Views\\Movies\\Index.cshtml",
+              "RelativeDocumentMoniker": "MoviesProject\\Views\\Movies\\Index.cshtml",
+              "ToolTip": "C:\\Users\\legac\\OneDrive\\Desktop\\Courses\\.net\\route\\MoviesProject\\MoviesProject\\Views\\Movies\\Index.cshtml",
+              "RelativeToolTip": "MoviesProject\\Views\\Movies\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-05T22:01:13.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "C:\\Users\\legac\\OneDrive\\Desktop\\Courses\\.net\\route\\MoviesProject\\MoviesProject\\Data\\SeedData.cs",
+              "RelativeDocumentMoniker": "MoviesProject\\Data\\SeedData.cs",
+              "ToolTip": "C:\\Users\\legac\\OneDrive\\Desktop\\Courses\\.net\\route\\MoviesProject\\MoviesProject\\Data\\SeedData.cs",
+              "RelativeToolTip": "MoviesProject\\Data\\SeedData.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAuwDIAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T21:55:48.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\legac\\OneDrive\\Desktop\\Courses\\.net\\route\\MoviesProject\\MoviesProject\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "MoviesProject\\Models\\Movie.cs",
+              "ToolTip": "C:\\Users\\legac\\OneDrive\\Desktop\\Courses\\.net\\route\\MoviesProject\\MoviesProject\\Models\\Movie.cs",
+              "RelativeToolTip": "MoviesProject\\Models\\Movie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T21:43:01.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\legac\\OneDrive\\Desktop\\Courses\\.net\\route\\MoviesProject\\MoviesProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MoviesProject\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\legac\\OneDrive\\Desktop\\Courses\\.net\\route\\MoviesProject\\MoviesProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MoviesProject\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-05T21:34:54.93Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
